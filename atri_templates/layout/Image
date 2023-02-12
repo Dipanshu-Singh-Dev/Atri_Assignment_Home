@@ -1,0 +1,96 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "64d6758b-2221-4aa7-a09e-c7ea35f90165",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "alignSelf": "flex-start",
+          "width": "%",
+          "maxWidth": "100%",
+          "maxHeight": "100%",
+          "paddingRight": "",
+          "marginRight": "0px",
+          "position": "relative",
+          "right": 150,
+          "top": 25,
+          "zIndex": 1,
+          "borderRadius": "15px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "64d6758b-2221-4aa7-a09e-c7ea35f90165",
+    "refId": "a4917974-3519-4f6f-aed3-c4fe285996f6"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "1e500d73-05d9-47b4-a9a0-b1e8e343e77b",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "burger",
+          "src": "/app-assets/616d9a0b651769674022e7ba_home-hero-restaurante-x-template.jpeg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "1e500d73-05d9-47b4-a9a0-b1e8e343e77b",
+    "refId": "a4917974-3519-4f6f-aed3-c4fe285996f6"
+  },
+  {
+    "id": "4126d66c-96cd-4d89-bad0-23db20de28b0",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "a4917974-3519-4f6f-aed3-c4fe285996f6",
+    "childId": "4126d66c-96cd-4d89-bad0-23db20de28b0"
+  },
+  {
+    "id": "a4917974-3519-4f6f-aed3-c4fe285996f6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Image5"
+    }
+  }
+]

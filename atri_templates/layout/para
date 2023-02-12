@@ -1,0 +1,87 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "9edcc603-b803-47a7-9a01-5fc21e71d7eb",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": "DM Sans",
+          "fontWeight": 500,
+          "color": "#8d8d8dff"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "9edcc603-b803-47a7-9a01-5fc21e71d7eb",
+    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "9cb3adee-9c11-4459-95f2-7abc12916aa2",
+    "meta": {},
+    "state": {
+      "property": {
+        "custom": {
+          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+        }
+      },
+      "parent": {
+        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "9cb3adee-9c11-4459-95f2-7abc12916aa2",
+    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a"
+  },
+  {
+    "id": "eb1ca29d-c406-4342-afbc-157c6344ee4a",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a",
+    "childId": "eb1ca29d-c406-4342-afbc-157c6344ee4a"
+  },
+  {
+    "id": "f58c6667-e070-4bdb-acf2-a91bb13d477a",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "TextBox24"
+    }
+  }
+]
