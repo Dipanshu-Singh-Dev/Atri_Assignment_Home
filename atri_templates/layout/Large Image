@@ -1,55 +1,58 @@
 [
   {
     "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
-    "id": "9edcc603-b803-47a7-9a01-5fc21e71d7eb",
+    "id": "01758d0b-b9d6-4e84-a51e-4905b44299d4",
     "meta": {},
     "state": {
       "parent": {
-        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
+        "id": "",
         "index": 0
       },
       "property": {
         "styles": {
-          "fontFamily": "DM Sans",
-          "fontWeight": 500,
-          "color": "#8d8d8dff"
+          "maxWidth": "",
+          "maxHeight": "",
+          "width": "300px",
+          "height": "300px",
+          "borderRadius": "35px"
         }
       }
     }
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
-    "childId": "9edcc603-b803-47a7-9a01-5fc21e71d7eb",
-    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a"
+    "refId": "3a390a78-6b67-4e35-ac9b-f4253f6c1c37",
+    "childId": "01758d0b-b9d6-4e84-a51e-4905b44299d4"
   },
   {
     "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
-    "id": "9cb3adee-9c11-4459-95f2-7abc12916aa2",
+    "id": "a804a544-7e04-41a4-bbb0-e8511509c639",
     "meta": {},
     "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
       "property": {
         "custom": {
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+          "alt": "instagram-1",
+          "src": "/app-assets/Instagram-01.jpeg"
         }
-      },
-      "parent": {
-        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
-        "index": 0
       }
     }
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
-    "childId": "9cb3adee-9c11-4459-95f2-7abc12916aa2",
-    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a"
+    "refId": "3a390a78-6b67-4e35-ac9b-f4253f6c1c37",
+    "childId": "a804a544-7e04-41a4-bbb0-e8511509c639"
   },
   {
-    "id": "eb1ca29d-c406-4342-afbc-157c6344ee4a",
+    "id": "af76cc46-d679-438e-9366-0c93aa39f7f5",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
       "parent": {
-        "id": "0f72dde6-45ff-4d7e-bfc1-8859eb92f257",
+        "id": "",
         "index": 0
       },
       "property": {
@@ -65,15 +68,15 @@
   },
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
-    "refId": "f58c6667-e070-4bdb-acf2-a91bb13d477a",
-    "childId": "eb1ca29d-c406-4342-afbc-157c6344ee4a"
+    "refId": "3a390a78-6b67-4e35-ac9b-f4253f6c1c37",
+    "childId": "af76cc46-d679-438e-9366-0c93aa39f7f5"
   },
   {
-    "id": "f58c6667-e070-4bdb-acf2-a91bb13d477a",
+    "id": "3a390a78-6b67-4e35-ac9b-f4253f6c1c37",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
     "meta": {
       "pkg": "@atrilabs/react-component-manifests",
-      "key": "TextBox",
+      "key": "Image",
       "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
     },
     "state": {
@@ -81,7 +84,7 @@
         "id": "templateRoot",
         "index": 0
       },
-      "alias": "TextBox24"
+      "alias": "Image97"
     }
   }
 ]

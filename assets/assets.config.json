@@ -82,5 +82,38 @@
   },
   "face1.jpg": {
     "mime": "image/jpeg"
+  },
+  "blog-post-featured-image-01.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "featured-image-03.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "featured-image-01.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "featured-image-05.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "featured-image-06.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-01.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-02.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-03.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-04.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-05.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Instagram-06.jpeg": {
+    "mime": "image/jpeg"
   }
 }
