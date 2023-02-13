@@ -112,33 +112,6 @@ const desktopModeProps = {
     "Flex23": {
       "callbacks": {}
     },
-    "Flex35": {
-      "callbacks": {}
-    },
-    "Flex46": {
-      "callbacks": {}
-    },
-    "Flex47": {
-      "callbacks": {}
-    },
-    "Flex48": {
-      "callbacks": {}
-    },
-    "Flex36": {
-      "callbacks": {}
-    },
-    "Flex38": {
-      "callbacks": {}
-    },
-    "Flex41": {
-      "callbacks": {}
-    },
-    "Flex42": {
-      "callbacks": {}
-    },
-    "Flex43": {
-      "callbacks": {}
-    },
     "Flex49": {
       "callbacks": {}
     },
@@ -197,6 +170,36 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex82": {
+      "callbacks": {}
+    },
+    "Div57": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
+    "Flex48": {
+      "callbacks": {}
+    },
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Flex38": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Flex47": {
       "callbacks": {}
     },
     "Flex90": {
@@ -886,166 +889,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox22": {
-      "custom": {
-        "text": "About us"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox24": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim bibendum sed et aliquet aliquet risus tempor semper odio egestas id pulvinar consectetur elit tortor non hac pellentesque lacus donec accumsan quisque ultricies adipiscing mauris tortor cras est eu accumsan mauris."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox25": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button11": {
-      "custom": {
-        "text": "Order Online"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button12": {
-      "custom": {
-        "text": "Book a Table"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image16": {
-      "custom": {
-        "alt": "burger",
-        "src": "/app-assets/616d9a0bdba0fb13cfd32fc0_about-home-restaurante-x-template-p-1080.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox16": {
-      "custom": {
-        "text": "Come and visit us"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image17": {
-      "custom": {
-        "alt": "location",
-        "src": "/app-assets/location-icon-restaurante-x-template.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox17": {
-      "custom": {
-        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox18": {
-      "custom": {
-        "text": "losangeles@restaurantex.com"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image20": {
-      "custom": {
-        "alt": "location",
-        "src": "/app-assets/email-icon-restaurante-x-template.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox19": {
-      "custom": {
-        "text": "(414) 857 - 0107"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image21": {
-      "custom": {
-        "alt": "location",
-        "src": "/app-assets/phone-icon-restaurante-x-template.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox26": {
       "custom": {
         "text": "Browse our menu"
@@ -1475,6 +1318,166 @@ const desktopModeProps = {
       }
     },
     "Button14": {
+      "custom": {
+        "text": "Book a Table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image16": {
+      "custom": {
+        "alt": "burger",
+        "src": "/app-assets/616d9a0bdba0fb13cfd32fc0_about-home-restaurante-x-template-p-1080.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox16": {
+      "custom": {
+        "text": "Come and visit us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image17": {
+      "custom": {
+        "alt": "location",
+        "src": "/app-assets/location-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox17": {
+      "custom": {
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox18": {
+      "custom": {
+        "text": "losangeles@restaurantex.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image20": {
+      "custom": {
+        "alt": "location",
+        "src": "/app-assets/email-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox19": {
+      "custom": {
+        "text": "(414) 857 - 0107"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image21": {
+      "custom": {
+        "alt": "location",
+        "src": "/app-assets/phone-icon-restaurante-x-template.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox22": {
+      "custom": {
+        "text": "About us"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox24": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit enim bibendum sed et aliquet aliquet risus tempor semper odio egestas id pulvinar consectetur elit tortor non hac pellentesque lacus donec accumsan quisque ultricies adipiscing mauris tortor cras est eu accumsan mauris."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox25": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button11": {
+      "custom": {
+        "text": "Order Online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button12": {
       "custom": {
         "text": "Book a Table"
       },
