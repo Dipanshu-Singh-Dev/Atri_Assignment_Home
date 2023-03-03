@@ -9,5 +9,6 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "projectName": "Atri_Assignment_Home"
 }
